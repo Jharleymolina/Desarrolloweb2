@@ -1,0 +1,26 @@
+.background {
+    background-color: #f8f9fa60;
+    padding-bottom: 50px;
+}
+
+.form-container {
+    background-color: #df1919;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(175, 13, 13, 0.1);
+}
+
+.table {
+    background-color: #050505;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+/* Estilo para el botón Registrar */
+#registrar {
+    background-color: #383b385d;
+    border-color: #91979362;
+}
+
+#registrar:hover {
+    background-color: #218838;
+    border-color: #218838;
+}
